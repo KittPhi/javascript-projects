@@ -1,5 +1,7 @@
+const person = (firstName, lastName) =>
+       {
+            first: "firstName",
+            last: "lastName"
+        };
 
-
-<script>
-    alert('Hello World! ');
-</script>
+console.log(person("Jill", "Wolson"))
