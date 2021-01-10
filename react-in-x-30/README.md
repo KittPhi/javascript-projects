@@ -1,8 +1,15 @@
 # React-in-x-minutes
+
+[vs code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+[Learn React in 30 minutes](https://youtu.be/hQAHSlTtcmY)
+[github](https://github.com/WebDevSimplified/Learn-React-In-30-Minutes)
+
 ```js
 mkdir react-in-x-minutes
 cd react-in-x-minutes
 npx create-react-app .
+
+npm i uuid
 ```
 
 # Getting Started with Create React App
